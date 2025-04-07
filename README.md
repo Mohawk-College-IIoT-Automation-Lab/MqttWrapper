@@ -1,2 +1,2 @@
 # MqttWrapper
-C++ Mqtt Wrapper
+C++ Mqtt Threading Wrapper
